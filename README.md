@@ -32,7 +32,6 @@ This guide breaks down key React Native concepts into digestible recipes.
     2. Prepare for app stores 
     3. Handle app signing 
     4. Understand release progress 
-
 ```
 
 ---
