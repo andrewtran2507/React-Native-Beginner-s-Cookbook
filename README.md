@@ -2,6 +2,39 @@
 
 This guide breaks down key React Native concepts into digestible recipes.
 
+```
+1. Introduction to React Native 
+    1. Compare React Native and React JS developments 
+    2. Setups React Native development environment 
+    3. Understand mobile app architecture 
+    4. Master mobile development workflow 
+    5. Handle platform-specific considerations 
+2. Core Components and APIs 
+    1. Implement core react native components 
+    2. Master mobile-specific styling 
+    3. Apply Flexbox for mobile layouts 
+    4. Handle touch and gesture events 
+    5. Optimize components performance 
+3. React Native Navigation and Routing 
+    1. Implement stack navigation 
+    2. Create tab-based navigation 
+    3. Handle deep linking 
+    4. Manage navigation state 
+    5. Implement authentication flows 
+4. State Management and Networking with React Native 
+    1. Implement local storage solutions 
+    2. Handle API Integration 
+    3. Mange offline data 
+    4. Implement state management patterns 
+    5. Handle error scenarios 
+5. Deployment and Publishing for React Native with Firebase App Distribution 
+    1. Configure build setting 
+    2. Prepare for app stores 
+    3. Handle app signing 
+    4. Understand release progress 
+
+```
+
 ---
 
 ### Recipe 1: Understanding React Native vs. ReactJS
